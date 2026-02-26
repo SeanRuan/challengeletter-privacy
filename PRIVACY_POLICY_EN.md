@@ -106,5 +106,6 @@ If changes are material, we will provide appropriate notice.
 
 If you have any questions about this Policy or personal data processing, please contact:
 
-- Contact email: <please fill in your support/legal email>
-- Operator name: <please fill in your company/team name>
+- Contact email: <Service@truetech.com.tw>
+- Operator name: <Truetech Entertainment Corp./Sean Ruan>
+
