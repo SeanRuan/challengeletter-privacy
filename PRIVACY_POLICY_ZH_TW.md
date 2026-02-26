@@ -108,5 +108,6 @@
 
 若您對本政策或個人資料處理有任何疑問，請聯絡：
 
-- 聯絡信箱：`<請填入客服或法務信箱>`
-- 營運者名稱：`<請填入公司/團隊名稱>`
+- 聯絡信箱：`<Service@truetech.com.tw>`
+- 營運者名稱：`<Truetech Entertainment Corp./Sean Ruan>`
+
